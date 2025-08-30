@@ -1,1 +1,1 @@
-print"adriel"
+print ("Amo batata")
